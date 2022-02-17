@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sergo Banjo Banking</string>
+    <string name="title_home">Портфель</string>
+    <string name="title_notifications">Настройки</string>
+    <string name="title_dashboard">Брижа</string>
+    <string name="title_activity_home">Вход</string>
+    <string name="password_login_input_hint">Пароль</string>
+    <string name="email_login_input_hint">Почта</string>
+    <string name="to_registration_button_text">Регистрация</string>
+    <string name="login_button_text">Войти</string>
+    <string name="general_caption">Общее</string>
+    <string name="second_name_input_hint">Фамилия</string>
+    <string name="first_name_input_hint">Имя</string>
+    <string name="patronymic_input_hint">Отчество</string>
+    <string name="passport_caption">Паспортные данные</string>
+    <string name="passport_number_hint">Номер</string>
+    <string name="passport_series_hint">Серия</string>
+    <string name="user_caption">Аккаунт</string>
+    <string name="back_login_button_text">Назад</string>
+    <string name="registration_button_text">Зарегистрироваться</string>
+    <string name="general_label">Общее</string>
+    <string name="user_label">Аккаунт</string>
+    <string name="second_name_label">Фамилия</string>
+    <string name="first_name_label">Имя</string>
+    <string name="patronymic_label">Отчество</string>
+    <string name="email_label">Почта</string>
+    <string name="logout_button_text">Выйти</string>
+    <string name="passport_label">Паспорт</string>
+    <string name="registration_success_message">Вы зарегистрированы</string>
+    <string name="registration_fail_message">Не удалось зарегистрировать</string>
+    <string name="login_success_message">Вы вошли</string>
+    <string name="login_fail_message">Неправильная почта или пароль</string>
+    <string name="registration_warning_message">Заполните необходимые поля</string>
+    <string name="login_warning_message">Заполните необходимые поля</string>
+    <string name="registration_activity_title">Регистрация</string>
+    <string name="buy_activity_title">Покупка акций</string>
+    <string name="price_text">Цена</string>
+    <string name="count_text">Количество</string>
+    <string name="buy_button_text">Купить</string>
+    <string name="buy_stock_success_message">Акции приобретены</string>
+    <string name="buy_stock_warning_message">Количество акций должно быть меньше лимита</string>
+    <string name="buy_stock_fail_message">Не удалось приобрести акции</string>
+    <string name="buy_price_label">Цена при покупке</string>
+    <string name="sum_stock_label">Итого</string>
+</resources>
